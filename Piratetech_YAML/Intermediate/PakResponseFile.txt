@@ -1,0 +1,5 @@
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_YAML/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_YAML/Content/*" "../../../MW5Mercs/Plugins/Piratetech_YAML/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_YAML/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_YAML/ModOverride/*" "../../../MW5Mercs/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_YAML/ModOverride/WwiseAudio/*" "../../../MW5Mercs/Content/WwiseAudio/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_YAML/Config/*" "../../../MW5Mercs/Config/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_YAML/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_YAML/AssetRegistry.bin" "../../../MW5Mercs/Plugins/Piratetech_YAML/"

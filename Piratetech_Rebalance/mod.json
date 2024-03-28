@@ -1,0 +1,33 @@
+{
+   "displayName" : "Piratetech_Rebalance",
+   "version" : "1.0",
+   "buildNumber" : 1,
+   "description" : "Rebalances vanilla weapons and equipment.",
+   "author" : "Rumia",
+   "authorURL" : "",
+   "defaultLoadOrder" : 0,
+   "gameVersion" : "1.1.0",
+   "manifest" : [
+      "/Game/Objects/Weapons/AC10/Autocannon10.uasset",
+      "/Game/Objects/Weapons/AC10/Autocannon10_Lvl0.uasset",
+      "/Game/Objects/Weapons/AC10/Autocannon10_Lvl2.uasset",
+      "/Game/Objects/Weapons/AC10/Autocannon10_Lvl3.uasset",
+      "/Game/Objects/Weapons/AC10/Autocannon10_Lvl4.uasset",
+      "/Game/Objects/Weapons/AC10/Autocannon10_Lvl5.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20_Lvl0.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20_Lvl2.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20_Lvl3.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20_Lvl4.uasset",
+      "/Game/Objects/Weapons/AC20/Autocannon20_Lvl5.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5_Lvl0.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5_Lvl2.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5_Lvl3.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5_Lvl4.uasset",
+      "/Game/Objects/Weapons/AC5/Autocannon5_Lvl5.uasset"
+   ],
+   "steamPublishedFileId" : 0,
+   "steamLastSubmittedBuildNumber" : 0,
+   "steamModVisibility" : "Private"
+}

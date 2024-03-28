@@ -1,0 +1,5 @@
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_Rebalance/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_Rebalance/Content/*" "../../../MW5Mercs/Plugins/Piratetech_Rebalance/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_Rebalance/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_Rebalance/ModOverride/*" "../../../MW5Mercs/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_Rebalance/ModOverride/WwiseAudio/*" "../../../MW5Mercs/Content/WwiseAudio/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_Rebalance/Config/*" "../../../MW5Mercs/Config/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Piratetech_Rebalance/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Piratetech_Rebalance/AssetRegistry.bin" "../../../MW5Mercs/Plugins/Piratetech_Rebalance/"
