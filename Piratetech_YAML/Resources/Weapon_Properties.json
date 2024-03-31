@@ -1,0 +1,11 @@
+{
+	"Weapon.Ballistic.AutoCannon.Cannon.Standard": {
+		"structureDamageMulti": 0.75
+	},
+	"Weapon.Ballistic.AutoCannon.Cannon.Carronade": {
+		"structureDamageMulti": 0.75
+	},
+	"Weapon.Ballistic.AutoCannon.Cannon.SBC": {
+		"structureDamageMulti": 0.75
+	}
+}

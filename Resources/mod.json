@@ -1,11 +1,11 @@
 {
 	"displayName": "Resources",
 	"version": "1.0",
-	"buildNumber": 0,
+	"buildNumber": 2,
 	"description": "",
 	"author": "",
 	"authorURL": "",
-	"defaultLoadOrder": 0,
+	"defaultLoadOrder": 999,
 	"gameVersion": "1.1.0",
 	"manifest": [],
 	"steamPublishedFileId": 0,

@@ -1,0 +1,5 @@
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Resources/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Resources/Content/*" "../../../MW5Mercs/Plugins/Resources/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Resources/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Resources/ModOverride/*" "../../../MW5Mercs/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Resources/ModOverride/WwiseAudio/*" "../../../MW5Mercs/Content/WwiseAudio/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Resources/Config/*" "../../../MW5Mercs/Config/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Resources/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Resources/AssetRegistry.bin" "../../../MW5Mercs/Plugins/Resources/"

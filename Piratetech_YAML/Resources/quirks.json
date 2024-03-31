@@ -1,0 +1,40 @@
+{
+	"PT-CRD-URL": {
+		"name": "Uriel",
+		"description": "Not the hero we need but the one we deserve.",
+		"color": "(R=0.484,G=0.336,B=0.012,A=1)",
+		"properties": {
+			"heatManagementSkillBonus": 1,
+			"heatCapacityBonus": 0.15,
+			"topSpeedMulti": 1.1,
+			"armorBonus": {
+				"RightArm": 8,
+				"LeftArm": 8
+			},
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 1.1,
+						"cooldownMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Weapons",
+						"tags": [
+							"Weapon.Energy.ParticleCannon.PPC",
+							"Weapon.Missile.SRM.SRM6.Inferno",
+							"Weapon.Missile.SRM.SRM4.Inferno",
+							"Weapon.Missile.SRM.SRM2.Inferno",
+							"Weapon.Energy.Laser.Standard.Medium"
+						],
+						"heatMulti": 0.85,
+						"cooldownMulti": 0.8
+					}
+				]
+			}
+		}
+	}
+}
