@@ -1,9 +1,9 @@
 {
    "displayName" : "Piratetech_Rebalance",
-   "version" : "1.0",
+   "version" : "0.1.0-Beta",
    "buildNumber" : 1,
    "description" : "Rebalances vanilla weapons and equipment.",
-   "author" : "Rumia",
+   "author" : "Piratetech Crew",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
    "gameVersion" : "1.1.0",
