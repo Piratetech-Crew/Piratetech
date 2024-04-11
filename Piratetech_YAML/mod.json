@@ -1,11 +1,11 @@
 {
 	"displayName": "Piratetech_YAML",
 	"version": "1.0",
-	"buildNumber": 24,
+	"buildNumber": 26,
 	"description": "",
 	"author": "Rumia",
 	"authorURL": "",
-	"defaultLoadOrder": 0,
+	"defaultLoadOrder": 20,
 	"gameVersion": "1.1.0",
 	"manifest": [],
 	"steamPublishedFileId": 0,

@@ -1,0 +1,5 @@
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Contrasting_MASC_Bar/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Contrasting_MASC_Bar/Content/*" "../../../MW5Mercs/Plugins/Contrasting_MASC_Bar/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Contrasting_MASC_Bar/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Contrasting_MASC_Bar/ModOverride/*" "../../../MW5Mercs/Content/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Contrasting_MASC_Bar/ModOverride/WwiseAudio/*" "../../../MW5Mercs/Content/WwiseAudio/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Contrasting_MASC_Bar/Config/*" "../../../MW5Mercs/Config/"
+"D:/MechWarrior 5/MechWarrior5Editor/MW5Mercs/Plugins/Contrasting_MASC_Bar/Saved/Cooked/WindowsNoEditor/MW5Mercs/Plugins/Contrasting_MASC_Bar/AssetRegistry.bin" "../../../MW5Mercs/Plugins/Contrasting_MASC_Bar/"
