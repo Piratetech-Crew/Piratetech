@@ -3,5 +3,22 @@
 		"quirks": [
 			"PT-CRD-URL"
 		]
+	},
+
+	"PT_Mackie_MDL": {
+		"scale": "X=0.9 Y=0.9 Z=0.9",
+		"quirks": [
+			"EASYTOMAINTAIN",
+			"PROTECTED-ACTUATOR",
+			"RUGGED1",
+			"PT-OVERSIZED"
+		]
+	},
+
+	"MSK-9HKR":{
+		"quirks": [
+			"PT-MSK-9HKR"
+		]
 	}
+
 }

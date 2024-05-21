@@ -1,0 +1,138 @@
+{
+	"PT_Sensors_Missile_Range": {
+		"rarity": 0.1,
+		"loreAccurate": false,
+		"requiredMechlabLevel": 4,
+		"weapons": {
+			"scope": "mech",
+			"groups": [{
+				"weaponGroupName": "Missile",
+				"tags": [
+					"Weapon.Missile",
+					"Weapon.ArtemisMissile"
+				],
+				"nullRangeMulti": 0.5,
+				"minRangeMulti": 0.5,
+				"optimalRangeMulti": 1.15,
+				"maxRangeMulti": 1.15
+			}]
+		}
+	},
+	"PT_Upperleg_JumpJet_Class5_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Upperleg_JumpJet_Class4_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Upperleg_JumpJet_Class3_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Upperleg_JumpJet_Class2_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Upperleg_JumpJet_Class1_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Lowerleg_JumpJet_Class5_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Lowerleg_JumpJet_Class4_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Lowerleg_JumpJet_Class3_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Lowerleg_JumpJet_Class2_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_Lowerleg_JumpJet_Class1_Equipment":	{
+		"rarity": 0.05,
+		"maxJumpJetsMulti": 1.5
+	},
+	"PT_PThruster_JumpJet_Class1_Equipment":{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class1_Equipment",
+			"ImprovedJumpJet_Class1_Equipment"
+		]
+	},
+	"PT_PThruster_JumpJet_Class2_Equipment":{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class2_Equipment",
+			"ImprovedJumpJet_Class2_Equipment"
+		]
+	},
+	"PT_PThruster_JumpJet_Class3_Equipment":{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class3_Equipment",
+			"ImprovedJumpJet_Class3_Equipment"
+		]
+	},
+	"PT_PThruster_JumpJet_Class4_Equipment":{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class4_Equipment",
+			"ImprovedJumpJet_Class4_Equipment"
+		]
+	},
+	"PT_PThruster_JumpJet_Class5_Equipment":{
+		"rarity": 0.05,
+		"mechConflicts": [
+			"JumpJet_Class5_Equipment",
+			"ImprovedJumpJet_Class5_Equipment"
+		]
+	},
+	"PT_Pirate_Radical_PDHS_Kit": {
+		"loreAccurate": false,
+		"rarity": 0.02,
+		"weapons": {
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.84
+				}
+			]
+		},
+		"engineHeatsinkMulti": 0,
+		"heatActivationThreshold": 0.75,
+		"heatDeactivationThreshold": 0.15,
+		"heatDissWhenActive": 1.20,
+		"heatFailureChancePerSec": 0.010,
+		"heatDamageOnFailure": 1,
+		"damageOnFailure": 20,
+		"engineHeatsinkEfficiency": 0.1,
+		"engineHeatsinkCapacity": 1.33
+	},
+	"PT_Cockpit_ArmoredCowl": {
+		"rarity": 0.1,
+		"armorComponentFront": 1,
+		"shieldingSkillBonus": 1,
+		"pilotDeathPercMult": 0.8
+	},
+	"PT_Cockpit_ArmoredCowl_MK2": {
+		"rarity": 0.05,
+		"armorComponentFront": 2,
+		"shieldingSkillBonus": 1,
+		"pilotDeathPercMult": 0.8
+	},
+	"PT_Cockpit_ArmoredCowl_MK3": {
+		"rarity": 0.025,
+		"armorComponentFront": 3,
+		"shieldingSkillBonus": 1,
+		"pilotDeathPercMult": 0.8
+	}
+}

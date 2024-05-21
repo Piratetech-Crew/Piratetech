@@ -7,5 +7,21 @@
 	},
 	"Weapon.Ballistic.AutoCannon.Cannon.SBC": {
 		"structureDamageMulti": 0.75
+	},
+	"Weapon.Missile.Rocket5.Tandem": {
+		"structureDamageMulti": 1.5,
+		"ArmorDamageMulti": 0.5
+	},
+	"Weapon.Missile.Rocket10.Tandem": {
+		"structureDamageMulti": 1.5,
+		"ArmorDamageMulti": 0.5
+	},
+	"Weapon.Missile.Rocket15.Tandem": {
+		"structureDamageMulti": 1.5,
+		"ArmorDamageMulti": 0.5
+	},
+	"Weapon.Missile.Rocket20.Tandem": {
+		"structureDamageMulti": 1.5,
+		"ArmorDamageMulti": 0.5
 	}
 }

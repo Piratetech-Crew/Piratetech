@@ -1,13 +1,15 @@
 {
 	"displayName": "Piratetech_YAML",
 	"version": "1.0",
-	"buildNumber": 26,
+	"buildNumber": 54,
 	"description": "",
 	"author": "Rumia",
 	"authorURL": "",
 	"defaultLoadOrder": 20,
 	"gameVersion": "1.1.0",
-	"manifest": [],
+	"manifest": [
+		"/Game/UI/Mech/HUD_Weapon.uasset"
+	],
 	"steamPublishedFileId": 0,
 	"steamLastSubmittedBuildNumber": 0,
 	"steamModVisibility": "Private"

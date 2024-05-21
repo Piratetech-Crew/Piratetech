@@ -1,0 +1,154 @@
+{
+	"DoubleHeatSink": {
+		"mechRequirements": [
+			"Equipment.Cooling.Double"
+		],
+		"mechConflicts": [
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"CompactHeatSink79",
+			"ClanLHS79",
+			"ClanDHS79",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		],
+		"rarity": 0.2
+	},
+	"ClanDHS79": {
+		"mechRequirements": [
+			"Equipment.Cooling.ClanDouble"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		],
+		"rarity": 0.1,
+		"module": "Clan"
+	},
+	"ClanLHS79": {
+		"mechRequirements": [
+			"Equipment.Cooling.ClanDouble"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"CompactHeatSink79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		],
+		"rarity": 0.08,
+		"module": "Clan"
+	},
+	"CompactHeatSink79": {
+		"bundledHeatsinks": 2,
+		"mechRequirements": [
+			"COMPACT_HS_KIT"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"CLAN_DHS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		],
+		"rarity": 0.1
+	},
+	"PROTO_DHS": {
+		"mechRequirements": [
+			"Equipment.Cooling.Prototype"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		],
+		"weapons": {
+			"groups": [
+				{
+					"weaponGroupName": "Weapon",
+					"tags": [
+						"Weapon"
+					],
+					"heatMulti": 0.97
+				}
+			]
+		},
+		"rarity": 0.04,
+		"heatActivationThreshold": 0.9,
+		"heatDeactivationThreshold": 0.7,
+		"heatFailureChancePerSec": 0.001,
+		"damageOnFailure": 1
+	},
+	"SingleHeatSink": {
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"CompactHeatSink79",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink",
+			"PROTO_DHS",
+			"DHS_QS",
+			"DHS_KIT_QS"
+		]
+	},
+	"DHS_QS": {
+		"mechRequirements": [
+			"DHS_KIT_QS"
+		],
+		"mechConflicts": [
+			"Cooling_diss100",
+			"RADICAL_DHS_KIT",
+			"CLAN_DHS_KIT",
+			"COMPACT_HS_KIT",
+			"PROTO_DHS_KIT",
+			"RADICAL_PROTO_DHS_KIT",
+			"PT_Pirate_Radical_PDHS_Kit",
+			"CompactHeatSink79",
+			"ClanLHS79",
+			"ClanDHS79",
+			"DoubleHeatSink",
+			"PROTO_DHS"
+		],
+		"loreAccurate": false,
+		"rarity": 0.1,
+		"module": "Quikcsell"
+	}
+}

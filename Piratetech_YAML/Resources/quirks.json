@@ -36,5 +36,66 @@
 				]
 			}
 		}
+	},
+	"PT-MSK-HERO": {
+		"name": "Mackie Hero Endurance",
+		"description": "The Mackie Hero comes equipped with higher density armor",
+		"color": "(R=1.0,G=0.0,B=0.0,A=1)",
+		"properties": {
+			"armorBonus": {
+				"CenterTorso": 16,
+				"RightTorso": 20,
+				"LeftTorso": 20,
+				"RightArm": 2,
+				"LeftArm": 2,
+				"RightLeg": 7,
+				"LeftLeg": 7
+			}
+		}
+	},
+	"PT-MSK-9HKR": {
+		"name": "Kill Roy's Little Buddy",
+		"description": "Unique set of quirks for the Mackie Kill Roy's Little Buddy Hero 'Mech",
+		"color": "(R=1,G=0.4,B=0,A=1)",
+		"properties": {
+			"weapons": {
+				"groups": [
+					{
+						"weaponGroupName": "Weapon",
+						"tags": [
+							"Weapon"
+						],
+						"heatMulti": 0.9
+					},
+					{
+						"weaponGroupName": "Energy",
+						"tags": [
+							"Weapon.Energy"
+						],
+						"heatMulti": 0.9,
+						"optimalRangeMulti": 1.1,
+						"maxRangeMulti": 1.1
+					},
+					{
+						"weaponGroupName": "Ballistic",
+						"tags": [
+							"Weapon.Ballistic"
+						],
+						"cooldownMulti": 0.9,
+						"speedMulti": 1.1
+					}
+				]
+			}
+		}
+	},
+	"PT-OVERSIZED": {
+		"name": "Oversized",
+		"description": "This 'Mech is much larger than normal, becoming a easier target and having difficulty moving through terrain",
+		"properties":{
+			"turnSpeedMulti": 0.9,
+			"accelerationMulti": 0.9,
+			"decelerationMulti": 0.9
+		}
 	}
+
 }
