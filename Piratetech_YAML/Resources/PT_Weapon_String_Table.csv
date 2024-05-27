@@ -1,0 +1,417 @@
+Key,SourceString
+PT_AOE_HEAVY_RL5_NAME,AOE Heavy Rocket Launcher 5
+PT_AOE_HEAVY_RL10_NAME,AOE Heavy Rocket Launcher 10
+PT_AOE_HEAVY_RL15_NAME,AOE Heavy Rocket Launcher 15
+PT_AOE_HEAVY_RL20_NAME,AOE Heavy Rocket Launcher 20
+PT_AOE_HEAVY_RL5_SHORT_NAME,AOE Heavy Rocket 5
+PT_AOE_HEAVY_RL10_SHORT_NAME,AOE Heavy Rocket 10
+PT_AOE_HEAVY_RL15_SHORT_NAME,AOE Heavy Rocket 15
+PT_AOE_HEAVY_RL20_SHORT_NAME,AOE Heavy Rocket 20
+PT_AOE_HEAVY_RL5_DESC,One-shot missile system with integrated ammo that fires 5 unguided high explosive missiles. Can not be upgraded.
+PT_AOE_HEAVY_RL10_DESC,One-shot missile system with integrated ammo that fires 10 unguided high explosive missiles. Can not be upgraded.
+PT_AOE_HEAVY_RL15_DESC,One-shot missile system with integrated ammo that fires 15 unguided high explosive missiles. Can not be upgraded.
+PT_AOE_HEAVY_RL20_DESC,One-shot missile system with integrated ammo that fires 20 unguided high explosive missiles. Can not be upgraded.
+PT_CHAIN_CANNON_NAME,Chain Cannon
+PT_CHAIN_CANNON_DESC,"A rapid fire, short range weapon system allowing for overwhelming fire dominance, the Chaincannon operates like a BattleMech-scale automatic grenade launcher, lobbing high explosive shells by the volley."
+PT_HEAVY_RL5_NAME,Heavy Rocket Launcher 5
+PT_HEAVY_RL10_NAME,Heavy Rocket Launcher 10
+PT_HEAVY_RL15_NAME,Heavy Rocket Launcher 15
+PT_HEAVY_RL20_NAME,Heavy Rocket Launcher 20
+PT_HEAVY_RL5_SHORT_NAME,Heavy Rocket 5
+PT_HEAVY_RL10_SHORT_NAME,Heavy Rocket 10
+PT_HEAVY_RL15_SHORT_NAME,Heavy Rocket 15
+PT_HEAVY_RL20_SHORT_NAME,Heavy Rocket 20
+PT_HEAVY_RL5_DESC,One-shot missile system with integrated ammo that fires 5 unguided missiles. Can not be upgraded.
+PT_HEAVY_RL10_DESC,One-shot missile system with integrated ammo that fires 10 unguided missiles. Can not be upgraded.
+PT_HEAVY_RL15_DESC,One-shot missile system with integrated ammo that fires 15 unguided missiles. Can not be upgraded.
+PT_HEAVY_RL20_DESC,One-shot missile system with integrated ammo that fires 20 unguided missiles. Can not be upgraded.
+PT_HVAC20_NAME,Hypervelocity Autocannon/20
+PT_HVAC20_SHORT_NAME,HV AC/20
+PT_HVAC20_DESC,"The Hyper-Velocity Autocannon (HVAC) family of weapons is based on the Autocannon. While they have the same damage classes, they're capable of firing much further. However, in order to obtain the increased ballistic range, the hyper-velocity ammo is larger and uses a unique type of propellant, reducing the number of shots per ton of ammo along with a couple other drawbacks, such as a chance of the weapon exploding, and a thick smoke trail every time the weapon is fired."
+PT_INF_RL5_NAME,Inferno Rocket Launcher 5
+PT_INF_RL10_NAME,Inferno Rocket Launcher 10
+PT_INF_RL15_NAME,Inferno Rocket Launcher 15
+PT_INF_RL20_NAME,Inferno Rocket Launcher 20
+PT_INF_RL5_SHORT_NAME,Inferno Rocket 5
+PT_INF_RL10_SHORT_NAME,Inferno Rocket 10
+PT_INF_RL15_SHORT_NAME,Inferno Rocket 15
+PT_INF_RL20_SHORT_NAME,Inferno Rocket 20
+PT_INF_RL_DESC,"Rocket Launchers are cheap, unguided, one-shot missile launchers. Someone took these warheads and replaced their payload with Inferno Gel."
+PT_PRIM_PROTO_PPC_NAME,Primitive Prototype PPC
+PT_PRIM_PROTO_PPC_DESC,Particle projector cannon that fires high-energy ion bolts.  Creates a brief disruption field within 90 m of the impact.
+PT_RAC10_NAME,Rotary Autocannon/10
+PT_RAC10_SHORT_NAME,RAC/10
+PT_RAC_DESC,"Gatling-type rotary ballistic weapon with medium range and low damage per shot but high DPS. Can be fired continously. Has no cooldown, but can overheat. Over 100% heat it gets an increasing chance to jam. Cools off at half the rate of heat buildup."
+PT_RAC20_NAME,Rotary Autocannon/20
+PT_RAC20_SHORT_NAME,RAC/20
+PT_RL5_NAME,Rocket Launcher 5
+PT_RL5_SHORT_NAME,Rocket 5
+PT_RL5_DESC,One-shot missile system with integrated ammo that fires 5 unguided missiles. Can not be upgraded.
+PT_RP5_NAME,Rocket Pack 5
+PT_RP5_SHORT_NAME,RP 5
+PT_RP10_NAME,Rocket Pack 10
+PT_RP10_SHORT_NAME,RP 10
+PT_RP15_NAME,Rocket Pack 15
+PT_RP15_SHORT_NAME,RP 15
+PT_RP20_NAME,Rocket Pack 20
+PT_RP20_SHORT_NAME,RP 20
+PT_RP_DESC,"Rocket Launchers are cheap, unguided, one-shot missile launchers. The Packs have five rockets stacked superposed per tube, each firing cycle launches the front-most rocket."
+PT_TAND_RL5_NAME,Tandem Rocket Launcher 5
+PT_TAND_RL10_NAME,Tandem Rocket Launcher 10
+PT_TAND_RL15_NAME,Tandem Rocket Launcher 15
+PT_TAND_RL20_NAME,Tandem Rocket Launcher 20
+PT_TAND_RL5_SHORT_NAME,Tandem Rocket 5
+PT_TAND_RL10_SHORT_NAME,Tandem Rocket 10
+PT_TAND_RL15_SHORT_NAME,Tandem Rocket 15
+PT_TAND_RL20_SHORT_NAME,Tandem Rocket 20
+PT_TAND_RL_DESC,"Tandem Charge Rocket Launchers are a Periphery Favourite to gamble on taking a target out fast, allowing the Rocket to pierce the target and explode internally. Deals increased damage to structure"
+PT_ATM3-P_NAME,ATM-3 (P)
+PT_ATM6-P_NAME,ATM-6 (P)
+PT_ATM9-P_NAME,ATM-9 (P)
+PT_ATM12-P_NAME,ATM-12 (P)
+PT_ATM-P_DESC,"This was an Advanced Tactical Missile system, before someone turned it into this wreckage. This is the famous case of getting a weapon into some nutcase's hand but no ammo for it. The whole system has been turned upside down, the Artemis got completely yanked out and they put a jury rigged RAC-feeder in its place, allowing to fire all common Inner Sphere Munitions. Use keyboard K (or bound key) / YAML Control+WeaponGroup to switch ammo.Damage is 2.4 in SRM, 1.2 in LRM and MRM mode / missile. Requires Normal Missile Ammo (SRM, MRM or LRM). Deals +- 0.2 damage. Explodes if destroyed"
+PT_SATM3-P_NAME,Streak ATM-3 (P)
+PT_SATM6-P_NAME,Streak ATM-6 (P)
+PT_SATM9-P_NAME,Streak ATM-9 (P)
+PT_SATM12-P_NAME,Streak ATM-12 (P)
+PT_SATM-P_DESC,"Seems like after they figured how to mass produce their jury rigged junk MML, some Pirates got 'smart' and hotwired some rare streak guidance system into it. It will only fire missiles that will hit, but generates a lot more heat. Use keyboard K (or bound key) / YAML Control+WeaponGroup to switch ammo.Damage is 2.4 in SRM, 1.2 in LRM and MRM mode / missile. Requires Normal Missile Ammo (SRM, MRM or LRM). Deals +- 0.4 damage. Explodes if destroyed"
+PT_BALLISTA_NAME,Ballista Gauss Cannon (P)
+PT_BALLISTA_SHORT_NAME,Ballista Cannon (P)
+PT_BALLISTA_DESC,"This weapon is pieced together with a old worn out gauss rifle, some spare myomers, and various pieces of scrap. While not as hard hitting as a gauss rifle it is a bit lighter and has alternative ammo types availible to it. While it can explode the capacitors in it are weak and dont explode as violently."
+PT_L-BALLISTA_NAME,Light Ballista Gauss Cannon (P)
+PT_L-BALLISTA_SHORT_NAME,Light Ballista (P)
+PT_L-BALLISTA_DESC,"A lighter but less damaging variant of the Ballista Gauss Cannon, this time made from the remains of a Light Gauss Rifle. Explodes if destroyed"
+PT_H-BALLISTA_NAME,Heavy Ballista Gauss Cannon (P)
+PT_H-BALLISTA_SHORT_NAME,Heavy Ballista (P)
+PT_H-BALLISTA_DESC,This heavy combersome weapon is the remains of a Heavy Gauss rebuilt into a large more terrifying version of the Pirate Ballista. Explodes if destroyed
+PT_HELLWALKER-BALLISTA_NAME,"Heavy Ballista Gauss Cannon ""Hellwalker"" (P)"
+PT_HELLWALKER-BALLISTA_SHORT_NAME,"Heavy Ballista ""Hellwalker"" (P)"
+PT_HELLWALKER-BALLISTA_DESC,"This weapon appears similar to the scrappy Ballista Cannon but is far stronger and is made with materials that are lighter and more durable than the original, it is mared by innumerable burns gashes and cuts and still seems to radiate heat. While it supports the normal ammo types it also can be filled with its own unique ammo that burns to the touch. While not as hard hitting as a gauss rifle it is a bit lighter and has alternative ammo types availible to it. Explodes if destroyed"
+PT_SCORPIO-BALLISTA_NAME,Light Ballista Gauss Cannon “Scorpio” (P)
+PT_SCORPIO-BALLISTA_SHORT_NAME,"Light Ballista ""Scorpio"" (P)"
+PT_SCORPIO-BALLISTA_DESC,"This weapon is pieced together with a old worn out gauss rifle, some spare myomers, and various pieces of scrap. While not as hard hitting as a gauss rifle it is a bit lighter and has alternative ammo types availible to it. While it can explode the capacitors in it are weak and dont explode as violently."
+PT_AVELYN-BALLISTA_NAME,Ballista Gauss Cannon “Avelyn” (P)
+PT_AVELYN-BALLISTA_SHORT_NAME,"Ballista ""Avelyn"" (P)"
+PT_AVELYN-BALLISTA_DESC,"This weapon is a heavily modified Ballista Gauss Cannon built with a longer barrel, added capacitors and two extra myomer powered bow limbs. Its heavier than normal but can fire 3 round bursts of Ballista ammo before needing to cooldown and reload. While each shot is a bit less powerful than a standard Ballista round if you can hit with all 3 shots your guaranteed to ruin anyones day. Explodes if destroyed"
+PT_CANNON_NAME,Ship Cannon (P)
+PT_CANNON_SHORT_NAME,Cannon (P)
+PT_CANNON_DESC,These pirates have welded together and jurry rigged a primitive ship cannon themed after ancient terra's own pirates.
+PT_CARRONADE_CANNON_NAME,Carronade Cannon (P)
+PT_CARRONADE_CANNON_SHORT_NAME,"Cannon ""Carronade"" (P)"
+PT_CARRONADE_CANNON_DESC,"This is a upgraded and larger cannon variant, The pirates call it the carronade, i call it terrifying. "
+PT_SBC_CANNON_NAME,SBC Cannon (P)
+PT_SBC_CANNON_SHORT_NAME,"Cannon ""SBC"" (P)"
+PT_SBC_CANNON_DESC,"This cannon is not ordinary, its exceptionally made and seems to have seen countless battles, it features a unique firing mechanism. It belonged to a mad pirate ranting about the future and some ancient evil called Mental, and seriously would not stop cracking one liners."
+PT_CEMETARY_RIFLE_NAME,Cemetery Uber Rifle (G)
+PT_CEMETARY_RIFLE_SHORT_NAME,Cemetery Rifle (G)
+PT_CEMETARY_RIFLE_DESC,"Now upgraded with a better barrel, a custom designed ""Uber"" feed system (Ultra was trademarked), and lighter ammunition. Honestly, you're more likely to roast yourself than bludgeon the enemy but don't worry you'll at least die while looking cool."
+PT_COFFIN_RIFLE_NAME,Coffin Heavy Rifle (G)
+PT_COFFIN_RIFLE_SHORT_NAME,Coffin Rifle (G)
+PT_COFFIN_RIFLE_DESC,"Someone decided to take an AC feed system, weld it to a Heavy Rifle and feed shotshells through it. Who knows what sort of pirate heresy was used to create this."
+PT_PIRATE_RAC2_NAME,Rotary AC2 (P)
+PT_PIRATE_RAC2_SHORT_NAME,RAC2 (P)
+PT_PIRATE_RAC2_DESC,"Technically it's not a RAC2, but some junkhead welded a couple AC2s together, linked their triggers and added additional feeding belts ....and I have no idea what *that* does. Explodes if destroyed"
+PT_PIRATE_RAC5_NAME,Rotary AC5 (P)
+PT_PIRATE_RAC5_SHORT_NAME,RAC5
+PT_PIRATE_RAC5_DESC,"Somehow a Pirate got their hands on a couple functional UAC5, and they couldn't just leave well enough alone! They mashed 'em together, increased the ammo feed, removed the safety limiters and for good measure torched occult symbols all over it.... Explodes if destroyed"
+PT_PIRATE_RAC10_NAME,Rotary AC10 (P)
+PT_PIRATE_RAC10_SHORT_NAME,RAC10 (P)
+PT_PIRATE_RAC10_DESC,"Ya know Boss, there's these days when you look at something and should just walk away....  This is a UAC/10, with 2 Rifles welded onto it, and all the barrels are fed through whatever THAT is. Explodes if destroyed"
+PT_PIRATE_RAC20_NAME,Rotary AC20 (P)
+PT_PIRATE_RAC20_SHORT_NAME,RAC20 (P)
+PT_PIRATE_RAC20_DESC,"So look, some madman who thinks he is a tech wired three UAC20s together with barbed wire. Then cold welded them in place with some janky threeway feed system that somehow uses what looks like a gear driven belt. So look, this thing should have a ton of firepower, but Commander I wouldn't trust it to not rattle the arm off of the Mech it's mounted on. Explodes if destroyed"
+PT_STCC_NAME,Small Tesla Capacitor Cannon MKII (G)
+PT_STCC_SHORT_NAME,STCC-MKII (G)
+PT_STCC_DESC,"After some continued modifications and the application of LPPC components, the MKII was born. Also known as the Small Tesla Capacitor Cannon, the MKII trades initial firepower for extended range and slightly better cooling."
+PT_TCC_NAME,Tesla Capacitor Cannon MKI (G)
+PT_TCC_SHORT_NAME,TCC-MK1 (G)
+PT_TCC_DESC,"Usually ""adjusting"" the Arc Attenuator on a PPC just gets you electrocuted to death. However, after some relative successful ""tinkering"" (hitting it with a hammer) everyone's favorite goblins managed to get it to stop making the mech it's attached to explode! Mostly? "
+PT_LTCC_NAME,Large Tesla Capacitor Cannon MKIII (G)
+PT_LTCC_SHORT_NAME,LTCC-MKIII (G)
+PT_LTCC_DESC,
+PT_BURN_BARREL_NAME,Burn Barrel (P)
+PT_BURN_BARREL_SHORT_NAME,Burn Barrel (P)
+PT_BURN_BARREL_DESC,"A barrel of incredibly volatile liquid, the Pirate Burn Barrel was originally a way to weaponize left over alcohol from a rowdy night. Over time a special blend of essential rums, liquors, and tannerite formed to create the Burn Barrel we know and love today. The launcher is basically a modified slingshot and the igniter is an old fuse but somehow it still sorta works alright?"
+PT_BUZZSAW_NAME,Buzzsaw Launcher (P)
+PT_BUZZSAW_SHORT_NAME,Buzzsaw (P)
+PT_BUZZSAW_DESC,Buzzsaw Launcher: This weapon fires mech scale sawblades that are prone to richochet around and do excelent damage. 10% damage variance. Does increased damage to structure. 2% chance to glance off the armor doing no damage
+PT_RIPSAW_NAME,Buzzsaw Launcher “RipSaw” (P)
+PT_RIPSAW_SHORT_NAME,Buzzsaw “RipSaw” (P)
+PT_RIPSAW_DESC,This variant of the buzzsaw launcher is even more junky looking than the regular versions.Nicknamed the RipSaw by the pirates it boasts faster fire rate but lower damage compared to the normal variants. 10% damage variance. Does increased damage to structure. 2% chance to glance off the armor doing no damage
+PT_SPINFUSOR_NAME,Buzzsaw “Spinfusor”
+PT_SPINFUSOR_SHORT_NAME,
+PT_SPINFUSOR_DESC,
+PT_GORGAS_NAME,Gorgas Machine Cannon (G)
+PT_GORGAS_SHORT_NAME,Gorgas (G)
+PT_GORGAS_DESC,This weapon would be a feat of modern engineering if it wasnt for the fact its basically an old terra weapon that was discontinued long ago. Turns out that hosing your enemies down with lead is still a viable tactic. Has 6 rate of fire modes.
+PT_HEAVY_REVOLVER_RIFLE_NAME,Heavy Revolver Rifle  (P)
+PT_HEAVY_REVOLVER_RIFLE_SHORT_NAME,Heavy Rev Rifle (P)
+PT_REVOLVER_RIFLE_DESC,"Some Pirate got the idea to combine a old Mech rifle and a upscaled 6-shot revolver cylinder. From there they managed to hook up a ammo feed system so it will periodically reload the shells, while this somehow works, this also makes the agonizingly slow reload speed even slower."
+PT_MEDIUM_REVOLVER_RIFLE_NAME,Medium Revolver Rifle (P)
+PT_MEDIUM_REVOLVER_RIFLE_SHORT_NAME,Medium Rev Rifle (P)
+PT_LIGHT_REVOLVER_RIFLE_NAME,Light Revolver Rifle (P)
+PT_LIGHT_REVOLVER_RIFLE_SHORT_NAME,Light Rev Rifle (P)
+PT_PIRATE_AC2_NAME,
+PT_PIRATE_AC2_SHORT_NAME,
+PT_PIRATE_AC2_DESC,
+PT_PIRATE_AC5_NAME,JuryRigged Autocannon 5 (P)
+PT_PIRATE_AC5_SHORT_NAME,AC/5 (P)
+PT_PIRATE_AC5_DESC,"You shouldn't let pirates touch anything! I'm not sure what they were trying to do with this thing. Use it at your own risk. Inflicts 1.4 heat each shot, 40% damage variance"
+PT_PIRATE_AC10_NAME,
+PT_PIRATE_AC10_SHORT_NAME,
+PT_PIRATE_AC10_DESC,
+PT_PIRATE_AC20_NAME,
+PT_PIRATE_AC20_SHORT_NAME,
+PT_PIRATE_AC20_DESC,
+PT_PIRATE_GAUSS_NAME,Gauss Rifle (P)
+PT_PIRATE_GAUSS_SHORT_NAME,Gauss (P)
+PT_PIRATE_GAUSS_DESC,"How pirates even got their hands on a Gauss Rifle is beyond me. They've modified the barrel and breech to only shoot ammunition that's been shaved down into spikes, or else it'll cause the end of the barrel to explode. It's a whole day's work just to make one ton of spiked ammunition. You're not going to make us do that, are you? "
+PT_PIRATE_HMG_NAME,HMG Array (P)
+PT_PIRATE_HMG_SHORT_NAME,HMG Array (P)
+PT_PIRATE_HMG_DESC,"The second and third barrels on this machine gun have been arc welded together and somehow jammed into the frame here. The feeding mechanism has been looped around to feed the additional breeches as well. This entire rat's nest weighs twice what it would take to mount a couple more machine guns in the first place. Traits: Weapon deals 1 heat damage per projectile, Suffers from recoil, 5% jam chance per fire mode, 33% damage variance, Weapon explodes for 30 damage when destroyed."
+PT_PIRATE_UAC2_NAME,
+PT_PIRATE_UAC2_SHORT_NAME,
+PT_PIRATE_UAC2_DESC,
+PT_PIRATE_UAC5_NAME,
+PT_PIRATE_UAC5_SHORT_NAME,
+PT_PIRATE_UAC5_DESC,
+PT_PIRATE_UAC10_NAME,Ultra Autocannon/10 (P)
+PT_PIRATE_UAC10_SHORT_NAME,UAC/10 (P)
+PT_PIRATE_UAC10_DESC,"Yeah Boss, this crap should not even exist, but still here it is. It's got bits and pieces of pretty much every AutoCannon you can get, here is a Clan UAC feeder, that's an LBX Barrel there, HVAC railing and stabilizers... and to top all this 'fuckery' off it's got a poem about someone named Thor written all over it.... "
+PT_PIRATE_UAC20_NAME,
+PT_PIRATE_UAC20_SHORT_NAME,
+PT_PIRATE_UAC20_DESC,
+PT_THERMITE_SPRAYER_NAME,Thermite Power Launcher (G)
+PT_THERMITE_SPRAYER_SHORT_NAME,Thermite Launcher (G)
+PT_THERMITE_SPRAYER_DESC,Do you want to commit warcrimes? Have you ever felt like Flamers were for NERDS!? The Goblins agreed! Fuck Flamers! Now with the new THERMITE POWER LAUNCHER (Patent Pending) you can make your enemies FEEL THE BURN. 
+PT_QS_BB5X_AC10_NAME,Autocannon/10 BB5X (QS)
+PT_QS_BB5X_AC10_SHORT_NAME,AC/10 BB5X (QS)
+PT_QS_BB5X_AC10_DESC,"Need something loud and nasty but cant afford Defiance Boomboxes? We at QuicSell got just the right thing, our Tech's worked hard to bring you this Top of the Line AutoCannon/10. SUPER LOW SAVINGS TO KEEP YOU LAND FREE!"
+PT_QS_DOUBLE_AC2_NAME,Double AC/2 (QS)
+PT_QS_DOUBLE_AC2_SHORT_NAME,DAC/2 (QS)
+PT_QS_DOUBLE_AC2_DESC,"Quicsell's Double Autocannons have all the power of a top of the line Ultra Autocannon for a fraction of the price, and your second shot is guaranteed to follow your first."
+PT_QS_DOUBLE_AC5_NAME,Double AC/5 (QS)
+PT_QS_DOUBLE_AC5_SHORT_NAME,DAC/5 (QS)
+PT_QS_DOUBLE_AC5_DESC,"Quicsell's Double Autocannons have all the power of a top of the line Ultra Autocannon for a fraction of the price, and your second shot is guaranteed to follow your first."
+PT_QS_DOUBLE_AC10_NAME,Double AC/10 (QS)
+PT_QS_DOUBLE_AC10_SHORT_NAME,DAC/10 (QS)
+PT_QS_DOUBLE_AC10_DESC,"Quicsell's Double Autocannons have all the power of a top of the line Ultra Autocannon for a fraction of the price, and your second shot is guaranteed to follow your first."
+PT_QS_DOUBLE_AC20_NAME,Double AC/20 (QS)
+PT_QS_DOUBLE_AC20_SHORT_NAME,DAC/20 (QS)
+PT_QS_DOUBLE_AC20_DESC,"Quicsell's Double Autocannons have all the power of a top of the line Ultra Autocannon for a fraction of the price, and your second shot is guaranteed to follow your first."
+PT_SLDF_LBX2_NAME,
+PT_SLDF_LBX2_SHORT_NAME,
+PT_SLDF_LBX2_DESC,
+PT_SLDF_LBX5_NAME,
+PT_SLDF_LBX5_SHORT_NAME,
+PT_SLDF_LBX5_DESC,
+PT_SLDF_LBX10_NAME,LB 10-X (SLDF)
+PT_SLDF_LBX10_SHORT_NAME,LB 10-X (SLDF)
+PT_SLDF_LBX10_DESC,Armstrong 150mm ClusterGun autocannon
+PT_SLDF_LBX20_NAME,
+PT_SLDF_LBX20_SHORT_NAME,
+PT_SLDF_LBX20_DESC,
+PT_SLDF_RAILGUN_NAME,Prototype Railgun (SLDF)
+PT_SLDF_RAILGUN_SHORT_NAME,Railgun (SLDF)
+PT_SLDF_RAILGUN_DESC,The Railgun is a massive weapon adapted from WarShips to be used on BattleMechs. This Original SLDF Era Railgun is heavier and got upgraded capacitors to not explode when destroyed but still is prohibitively heavy and large and can only fit on the largest BattleMechs. 
+PT_SOCIETY_HVAC2_NAME,
+PT_SOCIETY_HVAC2_SHORT_NAME,
+PT_SOCIETY_HVAC2_DESC,
+PT_SOCIETY_HVAC5_NAME,
+PT_SOCIETY_HVAC5_SHORT_NAME,
+PT_SOCIETY_HVAC5_DESC,
+PT_SOCIETY_HVAC10_NAME,
+PT_SOCIETY_HVAC10_SHORT_NAME,
+PT_SOCIETY_HVAC10_DESC,
+PT_SOCIETY_HVAC20_NAME,
+PT_SOCIETY_HVAC20_SHORT_NAME,
+PT_SOCIETY_HVAC20_DESC,
+PT_SLDF_SNPPC_NAME,Snub-Nose PPC (SLDF)
+PT_SLDF_SNPPC_SHORT_NAME,SNPPC (SLDF)
+PT_SLDF_SNPPC_DESC,"Snub-Nose Particle projector cannon that fires high-energy ion bolts.  Damage falls off after 270 meters.  Creates a brief disruption field within 90 m of the impact.  Can be overcharged for increased damage, with a high chance of suffering critical damage."
+PT_SLDF_PPC_NAME,Particle Projector Cannon (SLDF)
+PT_SLDF_PPC_SHORT_NAME,PPC (SLDF)
+PT_SLDF_PPC_DESC,
+PT_SLDF_LPPC_NAME,Light Particle Projector Cannon (SLDF)
+PT_SLDF_LPPC_SHORT_NAME,LPPC (SLDF)
+PT_SLDF_LPPC_DESC,
+PT_SLDF_HPPC_NAME,Heavy Particle Projector Cannon (SLDF)
+PT_SLDF_HPPC_SHORT_NAME,HPPC (SLDF)
+PT_SLDF_HPPC_DESC,
+PT_LARGE_CDPL_NAME,Continuous Discharge Large Pulse Laser
+PT_LARGE_CDPL_SHORT_NAME,CDLP Laser 
+PT_LARGE_CDPL_DESC,"High-powered energy weapon with long range, high damage, and shorter duration to concentrate damage."
+PT_MEDIUM_CDPL_NAME,Continuous Discharge Medium Pulse Laser
+PT_MEDIUM_CDPL_SHORT_NAME,CDMP Laser
+PT_MEDIUM_CDPL_DESC,"Medium-powered energy weapon with medium range, medium damage, and shorter duration to concentrate damage."
+PT_SMALL_CDPL_NAME,Continuous Discharge Small Pulse Laser
+PT_SMALL_CDPL_SHORT_NAME,CDSP Laser
+PT_SMALL_CDPL_DESC,"Low-powered energy weapon with short range, low damage, and shorter duration to concentrate damage."
+PT_TAG_BARRAGE_NAME,Target Aquisition Gear Barrage
+PT_TAG_BARRAGE_SHORT_NAME,Tag Barrage
+PT_TAG_BARRAGE_DESC,This TAG was rewired to call on supporting Fire from nearby Artillery to Shell the target with a selection of munitions 
+PT_ROTARY_LARGE_CHEM_LASER_NAME,
+PT_ROTARY_LARGE_CHEM_LASER_SHORT_NAME,
+PT_ROTARY_LARGE_CHEM_LASER_DESC,
+PT_ROTARY_MEDIUM_CHEM_LASER_NAME,
+PT_ROTARY_MEDIUM_CHEM_LASER_SHORT_NAME,
+PT_ROTARY_MEDIUM_CHEM_LASER_DESC,
+PT_ROTARY_SMALL_CHEM_LASER_NAME,
+PT_ROTARY_SMALL_CHEM_LASER_SHORT_NAME,
+PT_ROTARY_SMALL_CHEM_LASER_DESC,
+PT_MOC_PPC_NAME,Majesty Metals PPC
+PT_MOC_PPC_SHORT_NAME,PPC
+PT_MOC_PPC_DESC,Majesty Metals has started producing a new set of equipment for our brave fighters out there fighting against hatred and persecution.
+PT_PIRATE_LARGE_CBL_NAME,Large Continuous Beam Laser (G)
+PT_PIRATE_LARGE_CBL_SHORT_NAME,L-CBL (G)
+PT_PIRATE_LARGE_CBL_DESC,Large laser rigged to fire continuously by a pair of unknown pirates. Use at your own risk.
+PT_PIRATE_MEDIUM_CBL_NAME,Medium Continuous Beam Laser (G)
+PT_PIRATE_MEDIUM_CBL_SHORT_NAME,M-CBL (G)
+PT_PIRATE_MEDIUM_CBL_DESC,Medium laser rigged to fire continuously by a pair of unknown pirates. Use at your own risk.
+PT_PIRATE_SMALL_CBL_NAME,Small Continuous Beam Laser (G)
+PT_PIRATE_SMALL_CBL_SHORT_NAME,S-CBL (G)
+PT_PIRATE_SMALL_CBL_DESC,"Safety is for cowards, now you can fire that laser until either your cockpit or theirs is on fire!"
+PT_PIRATE_ER_LARGE_LASER_NAME,
+PT_PIRATE_ER_LARGE_LASER_SHORT_NAME,
+PT_PIRATE_ER_LARGE_LASER_DESC,
+PT_PIRATE_ER_MEDIUM_LASER_NAME,ER Medium Laser (P)
+PT_PIRATE_ER_MEDIUM_LASER_SHORT_NAME,ER M Laser (P)
+PT_PIRATE_ER_MEDIUM_LASER_DESC,"In my in-depth study of pirate-ology I've discovered that if you put spikes on it, it'll do more damage. If you're the kind to down a handle of rum and shoot yourself out of an airlock this design will make complete sense to you. "
+PT_PIRATE_ER_SMALL_LASER_NAME,
+PT_PIRATE_ER_SMALL_LASER_SHORT_NAME,
+PT_PIRATE_ER_SMALL_LASER_DESC,
+PT_PIRATE_LARGE_LASER_NAME,
+PT_PIRATE_LARGE_LASER_SHORT_NAME,
+PT_PIRATE_LARGE_LASER_DESC,
+PT_PIRATE_MEDIUM_LASER_NAME,Medium Laser
+PT_PIRATE_MEDIUM_LASER_SHORT_NAME,M Laser (P)
+PT_PIRATE_MEDIUM_LASER_DESC,"I am dumbfounded. This dizzying array of components was jammed into a medium laser in an attempt to extract an ounce more accuracy out of an already accurate design. It's just plain dumb, boss. +- 10% damage variance. Tracks targets like a pulse laser."
+PT_PIRATE_SMALL_LASER_NAME,
+PT_PIRATE_SMALL_LASER_SHORT_NAME,
+PT_PIRATE_SMALL_LASER_DESC,
+PT_PIRATE_HEAVY_LARGE_LASER_NAME,
+PT_PIRATE_HEAVY_LARGE_LASER_SHORT_NAME,
+PT_PIRATE_HEAVY_LARGE_LASER_DESC,
+PT_PIRATE_HEAVY_MEDIUM_LASER_NAME,Medium Heavy Laser (P)
+PT_PIRATE_HEAVY_MEDIUM_LASER_SHORT_NAME,M Heavy Laser (P)
+PT_PIRATE_HEAVY_MEDIUM_LASER_DESC,"Whatever this is I don't even know even know where to start, it is as if some Punk heard stories of Heavy Medium Lasers and decided rewiring a PPC Capacitor into a broken down Large Laser does the same..... 35% damage variance, Can explode for 10 damage when destroyed."
+PT_PIRATE_HEAVY_SMALL_LASER_NAME,
+PT_PIRATE_HEAVY_SMALL_LASER_SHORT_NAME,
+PT_PIRATE_HEAVY_SMALL_LASER_DESC,
+PT_PIRATE_FLAMER_NAME,Flamer (P)
+PT_PIRATE_FLAMER_SHORT_NAME,Flamer (P)
+PT_PIRATE_FLAMER_DESC,"The barrel of this flamer has been crimped at the end, probably in some moronic attempt to make it shoot farther.  You'll be lucky if it doesn't just blow up in your face. Traits: 90% Damage Variance, 1 Heat Damage per second."
+PT_PIRATE_TRIPLE_THREAT_NAME,Triple Threat (P)
+PT_PIRATE_TRIPLE_THREAT_SHORT_NAME,Triple Threat
+PT_PIRATE_TRIPLE_THREAT_DESC,This is 3 Plasma Cannons with a single rapid feeding mechanism that fails to properly create the plasma and mostly just lobs hot plastic at whatever is infront of it.
+PT_PIRATE_THERMACUTTER_NAME,Torcher Thermacutter Beam (G)
+PT_PIRATE_THERMACUTTER_SHORT_NAME,Thermacutter (G)
+PT_PIRATE_THERMACUTTER_DESC,"After using civilian cutting torches as a reference, the Goblin twins set about modifying a flamer for a more powerful and farther reaching weapon. They got the farther reaching part right at least."
+PT_PIRATE_THERMACUTTER_BELSHAMHAROTH_NAME,Tentacle of Bel-Shamharoth (G)
+PT_PIRATE_THERMACUTTER_BELSHAMHAROTH_SHORT_NAME,"Thermacutter ""Bel-Shamharoth"" (G)"
+PT_PIRATE_THERMACUTTER_BELSHAMHAROTH_DESC,"A weapon of true terror designed to torment infantry, vehicles, and even mechs. These tentacles reach past metal to assault the mind."
+PT_QS_ULTRA_LARGE_PL_NAME,Lazermatic 3000X Largest (QS)
+PT_QS_ULTRA_LARGE_PL_SHORT_NAME,Large UPL (QS)
+PT_QS_ULTRA_LARGE_PL_DESC,"Has THIS ever happened to YOU? Black and white footage of a poorly animated mech firing and missing a stationary taget with its lasers, while its mechwarrior nervously watches his recharge timer slowly progress, as return fire knocks their mech around, causing loose items within the cockpit to hit him in the face and chest  Fear no longer!  The Lazermatic 3000X by Quikscell solves this common problem.  Through use of our patented Cyclelux QuickLAS Firing Module (tm) system we can reduce laser recharge time to a fraction of other leading brands!  NEVER BE CAUGHT UNPREPARED!-Note- Quickscell is not responsible for death or injury from use of the Cyclelux QuickLAS Firing Module (tm).   Warranty is void if the Cyclelux QuickLAS Firing Module is opened in any way through either user action or damage.  Class V hazardous enviroment protection is recommended when handling any liquids that may be found within an exposed Cyclelux QuickLAS Firing Module. Traits: Rate of fire can be changed, 5% chance to jam if in the second rate of fire mode."
+PT_QS_ULTRA_MEDIUM_PL_NAME,Lazermatic 3000X Mediumest (QS)
+PT_QS_ULTRA_MEDIUM_PL_SHORT_NAME,Medium UPL (QS)
+PT_QS_ULTRA_MEDIUM_PL_DESC,"Has THIS ever happened to YOU? Black and white footage of a poorly animated mech firing and missing a stationary taget with its lasers, while its mechwarrior nervously watches his recharge timer slowly progress, as return fire knocks their mech around, causing loose items within the cockpit to hit him in the face and chest  Fear no longer!  The Lazermatic 3000X by Quikscell solves this common problem.  Through use of our patented Cyclelux QuickLAS Firing Module (tm) system we can reduce laser recharge time to a fraction of other leading brands!  NEVER BE CAUGHT UNPREPARED!-Note- Quickscell is not responsible for death or injury from use of the Cyclelux QuickLAS Firing Module (tm).   Warranty is void if the Cyclelux QuickLAS Firing Module is opened in any way through either user action or damage.  Class V hazardous enviroment protection is recommended when handling any liquids that may be found within an exposed Cyclelux QuickLAS Firing Module. Traits: Rate of fire can be changed, 5% chance to jam if in the second rate of fire mode."
+PT_QS_ULTRA_SMALL_PL_NAME,Lazermatic 3000X Smallest (QS)
+PT_QS_ULTRA_SMALL_PL_SHORT_NAME,Small UPL (QS)
+PT_QS_ULTRA_SMALL_PL_DESC,"Has THIS ever happened to YOU? Black and white footage of a poorly animated mech firing and missing a stationary taget with its lasers, while its mechwarrior nervously watches his recharge timer slowly progress, as return fire knocks their mech around, causing loose items within the cockpit to hit him in the face and chest  Fear no longer!  The Lazermatic 3000X by Quikscell solves this common problem.  Through use of our patented Cyclelux QuickLAS Firing Module (tm) system we can reduce laser recharge time to a fraction of other leading brands!  NEVER BE CAUGHT UNPREPARED!-Note- Quickscell is not responsible for death or injury from use of the Cyclelux QuickLAS Firing Module (tm).   Warranty is void if the Cyclelux QuickLAS Firing Module is opened in any way through either user action or damage.  Class V hazardous enviroment protection is recommended when handling any liquids that may be found within an exposed Cyclelux QuickLAS Firing Module. Traits: Rate of fire can be changed, 5% chance to jam if in the second rate of fire mode."
+PT_QS_LARGE_REX_NAME,Large REX-Pulse (QS)
+PT_QS_LARGE_REX_SHORT_NAME,L REX-P Laser (QS)
+PT_QS_LARGE_REX_DESC,"REX Lasers, King of the battlefield! Quicsell's revolutionary Re-engineered X-pulse lasers have all the benefits of both re-engineered lasers and the infamous X-pulse technology!"
+PT_QS_MEDIUM_REX_NAME,Medium REX-Pulse (QS)
+PT_QS_MEDIUM_REX_SHORT_NAME,M REX-P Laser (QS)
+PT_QS_MEDIUM_REX_DESC,"REX Lasers, King of the battlefield! Quicsell's revolutionary Re-engineered X-pulse lasers have all the benefits of both re-engineered lasers and the infamous X-pulse technology!"
+PT_QS_SMALL_REX_NAME,Small REX-Pulse (QS)
+PT_QS_SMALL_REX_SHORT_NAME,S REX-P Laser (QS)
+PT_QS_SMALL_REX_DESC,"REX Lasers, King of the battlefield! Quicsell's revolutionary Re-engineered X-pulse lasers have all the benefits of both re-engineered lasers and the infamous X-pulse technology!"
+PT_RISC_IHPPC_NAME,Improved Heavy PPC (RISC)
+PT_RISC_IHPPC_SHORT_NAME,PPC Heavy Improved (RISC)
+PT_RISC_IHPPC_DESC,Developed by Skobel Mechworks on Terra in Conjunction with RISC does this Heavy PPC trade a Reliable Damage profile for some damage potential for and no Minimum Range. Combining Clan ER PPC Technology with the best the Inner sphere has to offer.
+PT_PIRATE_GSSL_NAME,Spitfire Series Launcher (G)
+PT_PIRATE_GSSL_SHORT_NAME,GSSL (G)
+PT_PIRATE_GSSL_DESC,
+PT_PIRATE_ARROWIV_NAME,Arrow IV (P)
+PT_PIRATE_ARROWIV_SHORT_NAME,Arrow IV (P)
+PT_PIRATE_ARROWIV_DESC,"You really should stop getting these bargain sales, Boss! The exhaust goes straight into your 'Mech and its protective housing is completely stripped out!. Reduced Accuracy. Explodes for 100 damage if destroyed. Minimum Range of 260 meters. Has a 1% chance to Jam. Damages Self on Jam. Reduced tracking capabilities. Missile is slower to turn, harder to track, and takes longer to lock on."
+PT_PIRATE_ARROW4x4_NAME,Arrow 4x4 (P)
+PT_PIRATE_ARROW4x4_SHORT_NAME,Arrow 4x4 (P)
+PT_PIRATE_ARROW4x4_DESC,"Some Pirate thought it would be a good idea to take a ancient terran MLRS and put it in a scaled down casing for a Arrow IV system. The old fire control system has been ripped out quite violently as evidenced in some of these bent pieces of structure and a while more modern system has been put in who knows what they have done to the poor thing. Strangely theres been some modifications to the missile tubes, They have been made smaller to use missiles around the size of srms but judging from the look they are heavily modified and are very explosive, theres also some mechanised bits in there that seem to fit standard construction boards."
+PT_PIRATE_LRM17_NAME,LRM-17 (P)
+PT_PIRATE_LRM17_SHORT_NAME,LRM-17 (P)
+PT_PIRATE_LRM17_DESC,"The radar transmitter and guidance computer should be right here, but of course, they're not. I don't have any idea where the missiles are going to go when you fire it. 5% Jam Chance, Explodes for 68 damage when destroyed, +- 30% damage variance"
+PT_PIRATE_LRM30_NAME,LRM-30 (P)
+PT_PIRATE_LRM30_SHORT_NAME,LRM-30 (P)
+PT_PIRATE_LRM30_DESC,"This WAS an LRM20, they somehow managed to override any safeties, removed the guidance computer, and sped up the feeding mechanism. If this explodes and sends you after Kerensky don't ask me to fix it."
+PT_PIRATE_SRM4_NAME,SRM-2+2 (P)
+PT_PIRATE_SRM4_SHORT_NAME,SRM 4 (P)
+PT_PIRATE_SRM4_DESC,"Though this may look like an SRM4, it's not. Some moron welded together two SRM2s, and then stuck on some red LEDs that blink randomly and for no apparent reason. 5% chance to jam, 15% damage variance"
+PT_PIRATE_SRM6_NAME,Pirate SRM-4+4 (P)
+PT_PIRATE_SRM6_SHORT_NAME,SRM 6 (P)
+PT_PIRATE_SRM6_DESC,"This monstrosity is actually two SRM4s strapped together with what looks like bailing wire and a mutilated power coupling system. Several of the missile tubes will occasionally fail to fire. 30% damage variance, 10% chance to Jam, Explodes for 64 damage if destroyed."
+PT_QS_LRM5_NAME,LRM 5 (QS)
+PT_QS_LRM5_SHORT_NAME,LRM 5 (QS)
+PT_QS_LRM5_DESC,"We here at Quicsell know that weight and heat are both paramount when it comes to weapon design, so we managed to trim our LRM launchers down from what our most common competitors use by cutting out some of the unnessesary complexity in their launchers. Who really needs that much guidance hardware anyway? Not you, that's who! Remember to pick up a pack of our LRM ammo while you shop!"
+PT_QS_LRM10_NAME,LRM 10 (QS)
+PT_QS_LRM10_SHORT_NAME,LRM 10 (QS)
+PT_QS_LRM10_DESC,"We here at Quicsell know that weight and heat are both paramount when it comes to weapon design, so we managed to trim our LRM launchers down from what our most common competitors use by cutting out some of the unnessesary complexity in their launchers. Who really needs that much guidance hardware anyway? Not you, that's who! Remember to pick up a pack of our LRM ammo while you shop!"
+PT_QS_LRM15_NAME,LRM 15 (QS)
+PT_QS_LRM15_SHORT_NAME,LRM 15 (QS)
+PT_QS_LRM15_DESC,"We here at Quicsell know that weight and heat are both paramount when it comes to weapon design, so we managed to trim our LRM launchers down from what our most common competitors use by cutting out some of the unnessesary complexity in their launchers. Who really needs that much guidance hardware anyway? Not you, that's who! Remember to pick up a pack of our LRM ammo while you shop!"
+PT_QS_LRM20_NAME,LRM 20 (QS)
+PT_QS_LRM20_SHORT_NAME,LRM 20 (QS)
+PT_QS_LRM20_DESC,"We here at Quicsell know that weight and heat are both paramount when it comes to weapon design, so we managed to trim our LRM launchers down from what our most common competitors use by cutting out some of the unnessesary complexity in their launchers. Who really needs that much guidance hardware anyway? Not you, that's who! Remember to pick up a pack of our LRM ammo while you shop!"
+PT_RISC_HMRM10_NAME,Heavy MRM 10 (RISC)
+PT_RISC_HMRM10_SHORT_NAME,HMRM 10 (RISC)
+PT_RISC_HMRM10_DESC,"Based upon Advances by the Combine and with knowledge from Clan Missile Launchers, RISC Engineers developed the Heavy MRM, able to deliver a heavier payload with guided Missiles at extremely large Volley sizes. Explodes for 24 damage when destroyed, Shots lock on like SRMS"
+PT_RISC_HMRM20_NAME,Heavy MRM 20 (RISC)
+PT_RISC_HMRM20_SHORT_NAME,HMRM 20 (RISC)
+PT_RISC_HMRM20_DESC,"Based upon Advances by the Combine and with knowledge from Clan Missile Launchers, RISC Engineers developed the Heavy MRM, able to deliver a heavier payload with guided Missiles at extremely large Volley sizes. Explodes for 24 damage when destroyed, Shots lock on like SRMS"
+PT_RISC_HMRM30_NAME,Heavy MRM 30 (RISC)
+PT_RISC_HMRM30_SHORT_NAME,HMRM 30 (RISC)
+PT_RISC_HMRM30_DESC,"Based upon Advances by the Combine and with knowledge from Clan Missile Launchers, RISC Engineers developed the Heavy MRM, able to deliver a heavier payload with guided Missiles at extremely large Volley sizes. Explodes for 24 damage when destroyed, Shots lock on like SRMS"
+PT_RISC_HMRM40_NAME,Heavy MRM 40 (RISC)
+PT_RISC_HMRM40_SHORT_NAME,HMRM 40 (RISC)
+PT_RISC_HMRM40_DESC,"Based upon Advances by the Combine and with knowledge from Clan Missile Launchers, RISC Engineers developed the Heavy MRM, able to deliver a heavier payload with guided Missiles at extremely large Volley sizes. Explodes for 24 damage when destroyed, Shots lock on like SRMS"
+PT_RISC_MML5_NAME,Multi-Missile Launcher 5 (RISC)
+PT_RISC_MML5_SHORT_NAME,MML 5
+PT_RISC_MML5_DESC,RISC Engineers took an interest in the Mercenary-created MML systems and tried to adapt them for a more high tech battlefield. Applying weight saving technologies similar to the LBX autocannons allowed them to increase volley sizes.
+PT_RISC_MML10_NAME,Multi-Missile Launcher 10 (RISC)
+PT_RISC_MML10_SHORT_NAME,MML 10
+PT_RISC_MML10_DESC,RISC Engineers took an interest in the Mercenary-created MML systems and tried to adapt them for a more high tech battlefield. Applying weight saving technologies similar to the LBX autocannons allowed them to increase volley sizes.
+PT_RISC_MML15_NAME,Multi-Missile Launcher 15 (RISC)
+PT_RISC_MML15_SHORT_NAME,MML 15
+PT_RISC_MML15_DESC,RISC Engineers took an interest in the Mercenary-created MML systems and tried to adapt them for a more high tech battlefield. Applying weight saving technologies similar to the LBX autocannons allowed them to increase volley sizes.
+PT_RISC_MML20_NAME,Multi-Missile Launcher 20 (RISC)
+PT_RISC_MML20_SHORT_NAME,MML 20
+PT_RISC_MML20_DESC,RISC Engineers took an interest in the Mercenary-created MML systems and tried to adapt them for a more high tech battlefield. Applying weight saving technologies similar to the LBX autocannons allowed them to increase volley sizes.
+PT_RISC_SMML3_NAME,Streak Multi-Missile Launcher 3 (RISC)
+PT_RISC_SMML3_SHORT_NAME,SMML 3
+PT_RISC_SMML3_DESC,
+PT_RISC_SMML5_NAME,Streak Multi-Missile Launcher 5 (RISC)
+PT_RISC_SMML5_SHORT_NAME,SMML 5
+PT_RISC_SMML5_DESC,
+PT_RISC_SMML7_NAME,Streak Multi-Missile Launcher 7 (RISC)
+PT_RISC_SMML7_SHORT_NAME,SMML 7
+PT_RISC_SMML7_DESC,
+PT_RISC_SMML9_NAME,Streak Multi-Missile Launcher 9 (RISC)
+PT_RISC_SMML9_SHORT_NAME,SMML 9
+PT_RISC_SMML9_DESC,
+PT_SLDF_LRM5_NAME,LRM 5 (SLDF)
+PT_SLDF_LRM5_SHORT_NAME,LRM 5 (SLDF)
+PT_SLDF_LRM5_DESC,Long-range missile system that fires 5 guided missiles.
+PT_SLDF_LRM10_NAME,LRM 10 (SLDF)
+PT_SLDF_LRM10_SHORT_NAME,LRM 10 (SLDF)
+PT_SLDF_LRM10_DESC,Long-range missile system that fires 10 guided missiles.
+PT_SLDF_LRM15_NAME,LRM 15 (SLDF)
+PT_SLDF_LRM15_SHORT_NAME,LRM 15 (SLDF)
+PT_SLDF_LRM15_DESC,Long-range missile system that fires 15 guided missiles.
+PT_SLDF_LRM20_NAME,LRM 20 (SLDF)
+PT_SLDF_LRM20_SHORT_NAME,LRM 20 (SLDF)
+PT_SLDF_LRM20_DESC,Long-range missile system that fires 20 guided missiles.
+PT_BOMBAST_LASER_NAME,
+PT_BOMBAST_LASER_SHORT_NAME,
+PT_BOMBAST_LASER_DESC,
